@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Own Card</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_bday">Birthday</string>
+    <string name="title_congrats">Congrats</string>
+    <string name="title_just_cuz">Just Cuz</string>
+    <string name="changing_image_desc">Changing Image</string>
+
+    <string name="greeting_bday">Happy Birthday Ben!</string>
+    <string name="greeting_congrats">Congrats, Ben!</string>
+    <string name="greeting_just_cuz">Hey Ben,</string>
+
+    <string name="bottom_bday">You\'re old!</string>
+    <string name="bottom_congrats">Confetti!</string>
+    <string name="bottom_just_cuz">I\'m learning Android-speak!</string>
+
+</resources>
